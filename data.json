@@ -1,13 +1,44 @@
 {
-	"name": "Mohamed",
-	"location": "Morocco",
+	"name": "Mohamed Reda",
 	"profesion": "Software Developer",
-	"link": "https://reda.codes",
-	"Social":
-		{
-			"linkedin": "link",
-            "facebook": "link",
-            "instagram": "link",
-            "email":"link"
-        }
+	"about" : "I am A passionate Software Developer learning how to build and deploy Web applications using some cool libraries and frameworks.",
+	"image":"https://media-exp2.licdn.com/dms/image/C4E03AQH_P4wleAFfMA/profile-displayphoto-shrink_800_800/0/1658049753155?e=1663804800&v=beta&t=7A_LYupRWTnq57p27n1YshCv77q2CHkAhDErtRDv80o",
+	"social":
+			[
+				{
+					"id": 1,
+					"title": "Facebook",
+					"value": null
+				},
+				{
+					"id": 2,
+					"title": "LinkedIn",
+					"value": "https://www.linkedin.com/in/reda-med/"
+				},
+				{
+					"id": 3,
+					"title": "Instagram",
+					"value": "https://www.instagram.com/med_thelunatic/"
+				},
+				{
+					"id": 4,
+					"title": "Twitter",
+					"value": "https://twitter.com/RedaCodes"
+				},
+				{
+					"id": 5,
+					"title": "Email",
+					"value": "mailto:hello@reda.codes" 
+				},
+				{
+					"id": 6,
+					"title": "Website",
+					"value": "https://reda.codes"
+				},
+				{
+					"id": 7,
+					"title": "Number",
+					"value": "tel:+4733378901"
+				}
+			]
 }
