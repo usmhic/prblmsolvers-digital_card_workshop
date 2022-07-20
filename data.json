@@ -2,7 +2,7 @@
 	"name": "Mohamed Reda",
 	"profesion": "Software Developer",
 	"about" : "I am A passionate Software Developer learning how to build and deploy Web applications using some cool libraries and frameworks.",
-	"image":"https://media-exp2.licdn.com/dms/image/C4E03AQH_P4wleAFfMA/profile-displayphoto-shrink_800_800/0/1658049753155?e=1663804800&v=beta&t=7A_LYupRWTnq57p27n1YshCv77q2CHkAhDErtRDv80o",
+	"image":"https://avatars.githubusercontent.com/u/56653051?v=4",
 	"social":
 			[
 				{
@@ -13,32 +13,32 @@
 				{
 					"id": 2,
 					"title": "LinkedIn",
-					"value": "https://www.linkedin.com/in/reda-med/"
+					"value": "https://www.linkedin.com/in/oussama-hichou/"
 				},
 				{
 					"id": 3,
 					"title": "Instagram",
-					"value": "https://www.instagram.com/med_thelunatic/"
+					"value": "https://www.instagram.com/usmhic/"
 				},
 				{
 					"id": 4,
 					"title": "Twitter",
-					"value": "https://twitter.com/RedaCodes"
+					"value": "https://twitter.com/usmhic"
 				},
 				{
 					"id": 5,
 					"title": "Email",
-					"value": "mailto:hello@reda.codes" 
+					"value": "mailto:usama.hicho.mail@gmail.com" 
 				},
 				{
 					"id": 6,
 					"title": "Website",
-					"value": "https://reda.codes"
+					"value": "https://usmhic.me"
 				},
 				{
 					"id": 7,
 					"title": "Number",
-					"value": "tel:+4733378901"
+					"value": "tel:+212612345678"
 				}
 			]
 }
